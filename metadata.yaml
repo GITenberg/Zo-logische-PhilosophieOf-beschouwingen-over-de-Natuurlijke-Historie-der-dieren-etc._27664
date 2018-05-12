@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck
     - http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27664#Zo-logische-PhilosophieOf-beschouwingen-over-de-Natuurlijke-Historie-der-dieren-etc.
 gutenberg_issued: '2008-12-30'
 gutenberg_type: Text
 identifiers:
