@@ -1,0 +1,38 @@
+_repo: Zo-logische-PhilosophieOf-beschouwingen-over-de-Natuurlijke-Historie-der-dieren-etc._27664
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Metzelaar, J.
+    gutenberg_agent_id: '32831'
+    url: http://www.gutenberg.org/2009/agents/32831
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamarck, Jean Baptiste Pierre Antoine de Monet de
+    birthdate: 1744
+    deathdate: 1829
+    gutenberg_agent_id: '32830'
+    url: http://www.gutenberg.org/2009/agents/32830
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
+description: ''
+gutenberg_issued: '2008-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27664'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology'
+- !lcsh 'Psychology, Comparative'
+- !lcsh 'Physiology, Comparative'
+- !lcc 'QL'
+title: 'Zoölogische Philosophie
+
+  Of beschouwingen over de Natuurlijke Historie der dieren etc.'
+url: http://www.gutenberg.org/ebooks/27664
